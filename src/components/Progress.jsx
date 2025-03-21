@@ -6,7 +6,7 @@
 /*
       * Node modules 
 */
-import PropTypes, { number, string } from "prop-types";
+import PropTypes from "prop-types";
 import { motion } from "framer-motion";
 
 
@@ -22,7 +22,7 @@ const CircularProgress = ({ classes = '', size = '' }) => {
       </div>
 };
 
-CircularProgress.prototype = {
+CircularProgress.propTypes = {
       classes: PropTypes.string,
       size: PropTypes.string
 }
@@ -81,7 +81,7 @@ const LinearProgress = ({ classes = '' }) => {
       )
 }
 
-LinearProgress.prototypes = {
+LinearProgress.propTypes = {
       classes: PropTypes.string
 }
 

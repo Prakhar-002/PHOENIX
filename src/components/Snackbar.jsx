@@ -56,7 +56,7 @@ const Snackbar = ({ snackbar }) => {
       )
 }
 
-Snackbar.prototypes = {
+Snackbar.propTypes = {
       snackbar: PropTypes.object
 }
 

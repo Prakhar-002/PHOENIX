@@ -78,7 +78,7 @@ const SnackbarProvider = ({ children }) => {
 
 }
 
-SnackbarProvider.prototypes = {
+SnackbarProvider.propTypes = {
       children: PropTypes.any
 }
 

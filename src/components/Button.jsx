@@ -63,7 +63,7 @@ const IconBtn = ({ classes = '', icon, size = '', children, ...rest }) => {
       )
 }
 
-IconBtn.protoTypes = {
+IconBtn.propTypes = {
       classes: PropTypes.string,
       icon: PropTypes.string,
       size: PropTypes.string,
@@ -89,7 +89,7 @@ const ExtendedFab = ({ href, text, classes = '', ...rest }) => {
       )
 }
 
-ExtendedFab.protoTypes = {
+ExtendedFab.propTypes = {
       href: PropTypes.string,
       text: PropTypes.string,
       classes: PropTypes.string,

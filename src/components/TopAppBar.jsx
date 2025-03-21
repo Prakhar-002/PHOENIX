@@ -78,9 +78,6 @@ const TopAppBar = ({ toggleSidebar }) => {
 
       const isNormalLoad = navigation.state === 'loading' && !navigation.formData;
 
-      console.log(params.conversationId);
-      
-
       return (
             <header className="relative flex justify-between items-center h-16 px-4">
                   <div className="flex items-center gap-1">

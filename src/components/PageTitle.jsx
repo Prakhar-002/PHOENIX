@@ -19,7 +19,7 @@ const PageTitle = ({ title }) => {
       )
 }
 
-PageTitle.prototypes = {
+PageTitle.propTypes = {
       title: PropTypes.string
 }
 

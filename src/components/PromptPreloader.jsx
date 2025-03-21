@@ -30,7 +30,7 @@ const PromptPreloader = ({ promptValue }) => {
       )
 }
 
-PromptPreloader.protoTypes = {
+PromptPreloader.propTypes = {
       promptValue: PropTypes.string
 }
 
