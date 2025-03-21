@@ -13,7 +13,7 @@ import PropTypes from "prop-types"
 /*
 ? Custom modules
 */
-import logout from "../utils/logOut"
+import logout from "../utils/logout"
 import deleteConversation from "../utils/deleteConversation"
 
 /*
