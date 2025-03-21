@@ -56,7 +56,7 @@ const ResetPassword = () => {
                   <div className="relative w-screen h-dvh p-2 grid grid-cols-1 lg:grid-cols-[1fr,1.2fr] lg:gap-2">
                         <div className="flex flex-col justify-between p-4">
 
-                              <Logo classes="mx-auto lg:mx-0"/>
+                              <Logo classes="mx-auto lg:mx-0" />
 
                               <div className="flex flex-col  gap-2 max-w-[480px] w-full mx-auto">
                                     <h2 className="text-displaySmall font-semibold text-light-onBackground dark:text-dark-onBackground text-center">

@@ -17,7 +17,7 @@ import App from "../App";
 import Register from "../pages/Register";
 import Login from "../pages/Login";
 import ResetLink from "../pages/ResetLink";
-import ResetPassword from "../pages/Resetpassword";
+import ResetPassword from "../pages/ResetPassword";
 import Conversation from "../pages/Conversation";
 import ConversationError from "../pages/ConversationError";
 import RootError from "../pages/RootError";
