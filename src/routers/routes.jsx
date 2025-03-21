@@ -89,10 +89,6 @@ const router = createBrowserRouter([
             element: <ResetPassword />,
             loader: resetPasswordLoader,
             action: resetpasswordAction
-      },
-      {
-            path: '*', // Catch-all for undefined routes
-            element: <RootError /> // A custom 404 page
       }
 ]);
 
