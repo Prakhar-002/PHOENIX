@@ -13,7 +13,7 @@ Phoenix AI – 🐦 A smart chatbot built with ⚛️ `React`, 🎨 `TailwindCSS
 
 <br/>
 
-<h1  align="center" > 
+<h1  align="center" >
 
 <img src="https://github.com/user-attachments/assets/5bafff4d-7af5-4b54-9660-0799242bf543" />
 
