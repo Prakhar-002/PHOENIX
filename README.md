@@ -6,7 +6,7 @@ Phoenix AI – 🐦 A smart chatbot built with ⚛️ `React`, 🎨 `TailwindCSS
 
 <h1 align="center"> 
 
-<a href="https://phoenix002.netlify.app/"><strong> ➥ Fly Into PhoenixChat 🕊️
+<a href="https://phoenixai.netlify.app/"><strong> ➥ Fly Into PhoenixChat 🕊️
 </strong></a>
 
 </h1>
