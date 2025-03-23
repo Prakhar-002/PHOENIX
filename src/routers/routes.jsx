@@ -89,6 +89,10 @@ const router = createBrowserRouter([
             element: <ResetPassword />,
             loader: resetPasswordLoader,
             action: resetpasswordAction
+      },
+      {
+            path: '*',
+            element: <RootError />
       }
 ]);
 
